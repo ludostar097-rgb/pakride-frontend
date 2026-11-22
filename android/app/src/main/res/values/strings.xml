@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PakRide</string>
+    <string name="title_activity_main">PakRide</string>
+    <string name="package_name">pk.pakride.app</string>
+    <string name="custom_url_scheme">pk.pakride.app</string>
+</resources>
